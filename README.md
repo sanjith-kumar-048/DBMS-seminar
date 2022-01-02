@@ -1,2 +1,2 @@
 # DBMS-seminar
-##Seminar on conneccting frontrend and backend
+## Seminar on conneccting frontrend and backend
